@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kindergarten\n"
+"POT-Creation-Date: 2015-04-26 18:48+0200\n"
+"PO-Revision-Date: 2015-04-26 18:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: Dinozoom\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: C:\\EasyPHP\\data\\localweb\\wordpress\\wp-content\\themes"
+"\\kindergarten\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:83
+msgid "Name"
+msgstr ""
+
+#: comments.php:84
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:92
+msgid "Cancel reply"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:21 inc/template-tags.php:34 inc/template-tags.php:202
+#: inc/template-tags.php:215
+msgid "Edit"
+msgstr ""
+
+#: content-page.php:29 content-single.php:27 content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content.php:29
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:19
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: footer.php:20
+msgid "Kindergarten WordPress Theme"
+msgstr ""
+
+#: footer.php:21
+msgid "Dinozoom"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:63
+msgid "Menu"
+msgstr ""
+
+#: inc/extras.php:53
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: inc/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:78
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:80
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:84
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:110
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:114
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:202
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:218
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:240
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:246
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:250
+msgid "Newer posts"
+msgstr ""
+
+#: options.php:23
+msgid "One"
+msgstr ""
+
+#: options.php:24
+msgid "Two"
+msgstr ""
+
+#: options.php:25
+msgid "Three"
+msgstr ""
+
+#: options.php:26
+msgid "Four"
+msgstr ""
+
+#: options.php:27
+msgid "Five"
+msgstr ""
+
+#: options.php:32
+msgid "French Toast"
+msgstr ""
+
+#: options.php:33
+msgid "Pancake"
+msgstr ""
+
+#: options.php:34
+msgid "Omelette"
+msgstr ""
+
+#: options.php:35
+msgid "Crepe"
+msgstr ""
+
+#: options.php:36
+msgid "Waffle"
+msgstr ""
+
+#: options.php:97
+msgid "Header"
+msgstr ""
+
+#: options.php:103
+msgid "Header Logo"
+msgstr ""
+
+#: options.php:104
+msgid "Upload logo for your header."
+msgstr ""
+
+#: options.php:111
+msgid "Header Logo Only"
+msgstr ""
+
+#: options.php:112
+msgid "Header Text Only"
+msgstr ""
+
+#: options.php:113
+msgid "Show Both"
+msgstr ""
+
+#: options.php:114
+msgid "Disable"
+msgstr ""
+
+#: options.php:117
+msgid "Show"
+msgstr ""
+
+#: options.php:118
+msgid "Choose the option that you want."
+msgstr ""
+
+#: options.php:125
+msgid "Header Icon and Size"
+msgstr ""
+
+#: options.php:126
+msgid ""
+"Example:\"<strong>fa-3x fa-child</strong>\". All icons list http://"
+"fortawesome.github.io/Font-Awesome/icons/#search"
+msgstr ""
+
+#: options.php:132
+msgid "Adress"
+msgstr ""
+
+#: options.php:138
+msgid "Mail"
+msgstr ""
+
+#: options.php:139
+msgid "Link or mail"
+msgstr ""
+
+#: options.php:145
+msgid "Phone"
+msgstr ""
+
+#: options.php:154
+msgid "Design"
+msgstr ""
+
+#: options.php:159
+msgid "Primary color option"
+msgstr ""
+
+#: options.php:160
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to match "
+"your site."
+msgstr ""
+
+#: options.php:169
+msgid "Additional"
+msgstr ""
+
+#: options.php:175
+msgid "Activate favicon"
+msgstr ""
+
+#: options.php:176
+msgid "Check to activate favicon. Upload fav icon from below option"
+msgstr ""
+
+#: options.php:184
+msgid "Upload favicon"
+msgstr ""
+
+#: options.php:185
+msgid "Upload favicon for your site."
+msgstr ""
+
+#: options.php:194
+msgid "Slider"
+msgstr ""
+
+#: options.php:200
+msgid "Activate slider"
+msgstr ""
+
+#: options.php:201
+msgid "Check to activate slider."
+msgstr ""
+
+#: options.php:211
+#, php-format
+msgid "Image Upload #%1$s"
+msgstr ""
+
+#: options.php:212
+msgid "Upload slider image."
+msgstr ""
+
+#: options.php:218
+msgid "Enter title for your slider."
+msgstr ""
+
+#: options.php:224
+msgid "Enter your slider description."
+msgstr ""
+
+#: options.php:230
+msgid "Enter link to redirect slider when clicked"
+msgstr ""
+
+#: options.php:242
+msgid "Services"
+msgstr ""
+
+#: options.php:248
+msgid "Activate services"
+msgstr ""
+
+#: options.php:249
+msgid "Check to activate services."
+msgstr ""
+
+#: options.php:255
+msgid "Main Service"
+msgstr ""
+
+#: options.php:256 options.php:304
+msgid "Service Title"
+msgstr ""
+
+#: options.php:258
+msgid "Our Awesome Kindergarten School"
+msgstr ""
+
+#: options.php:262 options.php:310
+msgid "Service Description"
+msgstr ""
+
+#: options.php:264
+msgid ""
+"Kindergarten is the perfect place where your children will play and learn!"
+msgstr ""
+
+#: options.php:274
+msgid "Number of services"
+msgstr ""
+
+#: options.php:275
+msgid "How many services is the homepage. (Set and click SAVE)"
+msgstr ""
+
+#: options.php:285
+msgid "Elementary School"
+msgstr ""
+
+#: options.php:286
+msgid "High School"
+msgstr ""
+
+#: options.php:287
+msgid "Early Preschool"
+msgstr ""
+
+#: options.php:288
+msgid "Preschool"
+msgstr ""
+
+#: options.php:289
+msgid "Kindergarten"
+msgstr ""
+
+#: options.php:295
+#, php-format
+msgid "Service #%1$s"
+msgstr ""
+
+#: options.php:296
+msgid ""
+"Service Icon<br />\n"
+"\t\t\tService Icon (Using Font Awesome icons name) like: fa-medkit. <a href="
+"\"http://fortawesome.github.io/Font-Awesome/icons/\">Get your fontawesome "
+"icons.</a>"
+msgstr ""
+
+#: options.php:316
+msgid "Enter link to redirect service when clicked"
+msgstr ""
+
+#: options.php:325
+msgid "Projects"
+msgstr ""
+
+#: options.php:331
+msgid "Activate projects"
+msgstr ""
+
+#: options.php:332
+msgid "Check to activate projects."
+msgstr ""
+
+#: options.php:338
+msgid "Main Project"
+msgstr ""
+
+#: options.php:339 options.php:384
+msgid "Title"
+msgstr ""
+
+#: options.php:341
+msgid "Kindergarten Portfolio Projects"
+msgstr ""
+
+#: options.php:345 options.php:390
+msgid "Description"
+msgstr ""
+
+#: options.php:357
+msgid "Number of projects"
+msgstr ""
+
+#: options.php:358
+msgid "How many projects is the homepage. (Set and click SAVE)"
+msgstr ""
+
+#: options.php:367
+msgid "Knowledge"
+msgstr ""
+
+#: options.php:368
+msgid "Learning"
+msgstr ""
+
+#: options.php:369
+msgid "Entertainment"
+msgstr ""
+
+#: options.php:370
+msgid "Success"
+msgstr ""
+
+#: options.php:376
+msgid "Service"
+msgstr ""
+
+#: options.php:377
+msgid "Image"
+msgstr ""
+
+#: options.php:396
+msgid "Enter link to redirect project when clicked"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

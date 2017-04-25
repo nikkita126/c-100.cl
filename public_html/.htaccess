@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^c-100.cl$ [NC]
+RewriteRule ^(.*)$ http://c-100.cl/$1 [L,R=301] 
+</IfModule>
